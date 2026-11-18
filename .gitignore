@@ -1,0 +1,5 @@
+work/
+fw/
+node_modules/
+*.log
+*.ipsw
